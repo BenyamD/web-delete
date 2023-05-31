@@ -1,0 +1,11 @@
+.single{
+    margin: 3rem;
+    text-align: justify;
+    line-height: 31px;
+}
+body {
+    background-image: url("../media/image/desert-unsplash.jpg");
+        background-repeat: no-repeat;
+        background-size: cover; 
+  
+}

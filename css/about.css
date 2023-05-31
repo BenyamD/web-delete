@@ -1,0 +1,22 @@
+.spacing{
+    word-spacing: 3px;
+    line-height: 37px;
+  }
+  .spacing:before{
+    content: "✅";
+    margin-right: 7px;
+      }
+  li.spacing{
+    list-style-type:none;
+    
+  }
+  ul{
+    margin-top:3rem;
+  }
+  body {
+    background-image: url("../media/image/desert-unsplash.jpg");
+        background-repeat: no-repeat;
+        background-size: cover; 
+        font-size: 24px;
+  
+}
